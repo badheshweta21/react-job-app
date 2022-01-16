@@ -1,0 +1,6 @@
+.job-card {
+    display: inline-flex;
+    justify-content: space-between;
+    flex: wrap;
+    padding: 1rem;
+}
