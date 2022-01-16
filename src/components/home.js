@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div class="container">
             <div class="row justify-content-md-center">
-                <div class="col col-lg-2">
+                <div class="col col-lg-6">
                     <h1>Welcome..</h1>
                     <h2>Lets find job in your dream company!</h2>
                 </div>
